@@ -1,0 +1,33 @@
+# OpenCV for image processing and frame display
+opencv-python
+
+# LangChain libraries for chat processing
+langchain
+langchain-openai
+langchain-community
+
+# dotenv for environment variable management
+python-dotenv
+
+# PyAudio for audio playback (TTS) and microphone handling
+pyaudio
+
+# soundfile for audio stream handling (optional, used with PyAudio)
+soundfile
+
+# SpeechRecognition library for microphone input
+SpeechRecognition
+
+# OpenAI Whisper for transcription (direct from GitHub)
+git+https://github.com/openai/whisper.git
+
+# PyAutoGUI for screen capture instead of webcam usage
+pyautogui
+numpy
+pydantic
+typing-extensions
+faiss-cpu
+rank-bm25
+tiktoken
+pypdf
+rank_bm25
